@@ -212,4 +212,4 @@ Verithra is designed, engineered, and maintained by **Nicholas Alexander MacAski
 
 ---
 
-*© 2026 Nicholas Alexander MacAskill. All rights reserved. Verithra is an experimental sovereign cryptographic and quantitative research system.*
+*All rights reserved Flocano Labs LLC USA.*
