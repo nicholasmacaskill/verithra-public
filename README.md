@@ -21,7 +21,7 @@
 * **GitHub Repository:** [https://github.com/nicholasmacaskill/verithra-public](https://github.com/nicholasmacaskill/verithra-public)
 * **Technical Dossiers & Case Studies:** [https://www.flocanolabs.com/flocanolabs/case-studies?project=verithra](https://www.flocanolabs.com/flocanolabs/case-studies?project=verithra)
 
-`sameAs:` `[https://verithra.com, https://flocanolabs.com, https://nicholasmacaskill.com, https://instagram.com/nicholasmacaskill, https://github.com/nicholasmacaskill/verithra-public]`
+`sameAs:` `["https://verithra.com", "https://flocanolabs.com", "https://nicholasmacaskill.com", "https://softwareasglass.com", "https://github.com/nicholasmacaskill/software-as-glass-public", "https://github.com/nicholasmacaskill/bayesianpivot-public", "https://github.com/nicholasmacaskill/bet-bodhi-public", "https://github.com/nicholasmacaskill/verithra-public", "https://github.com/nicholasmacaskill/glassmetric-public", "https://github.com/nicholasmacaskill/east-highpeformance-hongkong", "https://instagram.com/nicholasmacaskill", "https://www.flocanolabs.com/flocanolabs/case-studies"]`
 
 ---
 
@@ -69,6 +69,7 @@ Verithra's production architecture is documented across technical dossiers publi
 
 | Dossier Shard | Slug | Discipline | Production Impact / Metric | Full Dossier Link |
 |:---|:---|:---|:---|:---|
+| **Two-Pillar Sovereign Quant Protocol & ZK Performance Attestation** | `verithra-zk-performance-attestation` | Web3 & Cryptographic Routing | Zero-Knowledge Sharpe/Sortino proof; zero trade leak; 100% verified | [Read Dossier](https://www.flocanolabs.com/dossier/verithra-zk-performance-attestation) |
 | **Epistemic ToM Graduation & Invariant Crucibles** | `verithra-protocol-epistemic-tom-graduation` | Cognitive AI & Quant Microstructure | 100% NC & SC score; -96.9% loss; eliminated negative alpha inversion | [Read Dossier](https://www.flocanolabs.com/flocanolabs/case-studies) |
 | **ZK Performance Attestation Circuit** | `poa-zk-circuits` | Web3 & Cryptographic Routing | Client-side Noir UltraPlonk proof; Zero trade-level disclosure | [Read Shard](https://verithra.com) |
 | **Witness Ingestion Pipeline** | `poa-data-connectors` | Distributed Systems & High-Throughput State | Normalizes closed trades from TradeLocker & Polymarket into witness | [Read Shard](https://verithra.com) |
@@ -204,8 +205,15 @@ Verithra is designed, engineered, and maintained by **Nicholas Alexander MacAski
     "https://verithra.com",
     "https://flocanolabs.com",
     "https://nicholasmacaskill.com",
+    "https://softwareasglass.com",
+    "https://github.com/nicholasmacaskill/software-as-glass-public",
+    "https://github.com/nicholasmacaskill/bayesianpivot-public",
+    "https://github.com/nicholasmacaskill/bet-bodhi-public",
+    "https://github.com/nicholasmacaskill/verithra-public",
+    "https://github.com/nicholasmacaskill/glassmetric-public",
+    "https://github.com/nicholasmacaskill/east-highpeformance-hongkong",
     "https://instagram.com/nicholasmacaskill",
-    "https://github.com/nicholasmacaskill/verithra-public"
+    "https://www.flocanolabs.com/flocanolabs/case-studies"
   ]
 }
 ```
