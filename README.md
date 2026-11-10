@@ -330,10 +330,13 @@ Verification RESULT: SUCCESS (Proof is mathematically and cryptographically vali
 
 ---
 
-## 🏛️ Sovereign Attribution & Portfolio
+## 🏛️ Sovereign Attribution & Legal Provenance
 
 Verithra is designed, engineered, and maintained by **Nicholas Alexander MacAskill** as part of the **Flocano Labs** applied algorithmic intelligence portfolio.
 
+* **Founder, CEO & Systems Architect:** Nicholas Alexander MacAskill ([@nicholasmacaskill](https://instagram.com/nicholasmacaskill))
+* **Entity:** Flocano Labs LLC (State of New Mexico Domestic LLC, Charter #7829104)
+* **Registered Office:** 1209 Mountain Road PL NE, Ste R, Albuquerque, NM 87110, USA
 * **Executive Portfolio & Practice:** [https://nicholasmacaskill.com](https://nicholasmacaskill.com)
 * **Flocano Labs Sovereign Forge:** [https://flocanolabs.com](https://flocanolabs.com)
 * **Protocol Spoke Portal:** [https://verithra.com](https://verithra.com)
@@ -388,6 +391,6 @@ Verithra is designed, engineered, and maintained by **Nicholas Alexander MacAski
 ─────────────────────────────────────────────────────────────────────────────
 GOVERNANCE: Flocano Labs LLC // Nicholas Alexander MacAskill
 CLASSIFICATION: Sovereign Algorithmic Intelligence & Cryptographic Systems
-ALL RIGHTS RESERVED FLOCANO LABS LLC USA
+ALL RIGHTS RESERVED FLOCANO LABS LLC USA (NM #7829104)
 ─────────────────────────────────────────────────────────────────────────────
 ```
