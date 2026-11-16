@@ -21,7 +21,7 @@
 * **GitHub Repository:** [https://github.com/nicholasmacaskill/verithra-public](https://github.com/nicholasmacaskill/verithra-public)
 * **Technical Dossiers & Case Studies:** [https://www.flocanolabs.com/flocanolabs/case-studies?project=verithra](https://www.flocanolabs.com/flocanolabs/case-studies?project=verithra)
 
-`sameAs:` `["https://verithra.com", "https://flocanolabs.com", "https://nicholasmacaskill.com", "https://softwareasglass.com", "https://github.com/nicholasmacaskill/software-as-glass-public", "https://github.com/nicholasmacaskill/bayesianpivot-public", "https://github.com/nicholasmacaskill/bet-bodhi-public", "https://github.com/nicholasmacaskill/verithra-public", "https://github.com/nicholasmacaskill/glassmetric-public", "https://github.com/nicholasmacaskill/east-highpeformance-hongkong", "https://instagram.com/nicholasmacaskill", "https://www.flocanolabs.com/flocanolabs/case-studies"]`
+`sameAs:` `["https://verithra.com", "https://flocanolabs.com", "https://nicholasmacaskill.com", "https://softwareasglass.com", "https://github.com/nicholasmacaskill/software-as-glass-public", "https://github.com/nicholasmacaskill/bayesianpivot-public", "https://github.com/nicholasmacaskill/bet-bodhi-public", "https://github.com/nicholasmacaskill/verithra-public", "https://github.com/nicholasmacaskill/glassmetric-public", "https://github.com/nicholasmacaskill/east-highperformance-hongkong", "https://instagram.com/nicholasmacaskill", "https://www.flocanolabs.com/flocanolabs/case-studies"]`
 
 ---
 
@@ -378,7 +378,7 @@ Verithra is designed, engineered, and maintained by **Nicholas Alexander MacAski
     "https://github.com/nicholasmacaskill/bet-bodhi-public",
     "https://github.com/nicholasmacaskill/verithra-public",
     "https://github.com/nicholasmacaskill/glassmetric-public",
-    "https://github.com/nicholasmacaskill/east-highpeformance-hongkong",
+    "https://github.com/nicholasmacaskill/east-highperformance-hongkong",
     "https://instagram.com/nicholasmacaskill",
     "https://www.flocanolabs.com/flocanolabs/case-studies"
   ]
