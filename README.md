@@ -267,6 +267,9 @@ Verithra's production architecture is documented across technical dossiers publi
 
 | Dossier Shard | Slug | Discipline | Production Impact / Metric | Full Dossier Link |
 |:---|:---|:---|:---|:---|
+| **Closed-Loop Code Reliability Algorithm (Autopoietica)** | `autopoietica-causal-gap-verification` | Autonomous SWE & Adversarial QA | 89.2% OOS precision; 33ms risk gate; Verithra 3D Mutation Gate (8/8 RED->GREEN, 100% poison pills killed) | [Read Dossier](https://www.flocanolabs.com/dossier/autopoietica-causal-gap-verification) |
+| **Human-Gated Agentic Invariant Protocol (HAIP-01)** | `human-gated-agentic-invariant-protocol` | Autonomous SWE & Adversarial QA | 35/35 Tri-Axial invariants clean; 140x faster incident resolution; 0 bytes data loss | [Read Dossier](https://www.flocanolabs.com/dossier/human-gated-agentic-invariant-protocol) |
+| **Tri-Axial Invariant Crucible (3DCM-01)** | `tri-axial-invariant-crucible` | Autonomous SWE & Adversarial QA | 53/53 invariants passed; 100.0% mutant kill rate (8/8); 0.00% naked order leakage | [Read Dossier](https://www.flocanolabs.com/dossier/tri-axial-invariant-crucible) |
 | **Two-Pillar Sovereign Quant Protocol & ZK Performance Attestation** | `verithra-zk-performance-attestation` | Web3 & Cryptographic Routing | Zero-Knowledge Sharpe/Sortino proof; zero trade leak; 100% verified | [Read Dossier](https://www.flocanolabs.com/dossier/verithra-zk-performance-attestation) |
 | **Epistemic ToM Graduation & Invariant Crucibles** | `verithra-protocol-epistemic-tom-graduation` | Cognitive AI & Quant Microstructure | 100% NC & SC score; -96.9% loss; eliminated negative alpha inversion | [Read Dossier](https://www.flocanolabs.com/flocanolabs/case-studies) |
 | **ZK Performance Attestation Circuit** | `poa-zk-circuits` | Web3 & Cryptographic Routing | Client-side Noir UltraPlonk proof; Zero trade-level disclosure | [Read Shard](https://verithra.com) |
